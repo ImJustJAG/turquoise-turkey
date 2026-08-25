@@ -1,1 +1,7 @@
 /* Place CSS styles here */
+body {
+    background: rgb(171, 112, 57)
+    text-align: center; 
+    width: 80%;
+    margin: auto;
+}
