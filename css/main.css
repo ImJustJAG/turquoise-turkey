@@ -6,4 +6,10 @@ body {
     margin: auto;
 }
 
-img { border: 10px solid #ffd700 }
+nav {
+    align-content:center
+}
+
+img { 
+    border: 10px solid #ffd700 
+}
