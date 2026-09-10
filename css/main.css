@@ -1,6 +1,6 @@
 /* Place CSS styles here */
 body {
-    background: rgb(171, 112, 57)
+    background: rgb(171, 112, 57);
     text-align: center; 
     width: 80%;
     margin: auto;
@@ -10,6 +10,11 @@ nav {
     align-content:center
 }
 
+nav a {
+    font-size: 18px;
+    font-weight: 500;
+    color
+}
 img { 
     border: 10px solid #ffd700 
 }
